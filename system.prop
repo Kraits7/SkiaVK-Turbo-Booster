@@ -1,0 +1,7 @@
+debug.hwui.renderer=skiavk
+debug.hwui.use_gpu_pixel_buffers=true
+debug.sf.enable_hwc_vds=1
+debug.sf.hw=1
+debug.egl.profiler=1
+debug.egl.trace=1
+debug.renderengine.backend=threaded
