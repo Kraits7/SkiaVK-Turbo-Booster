@@ -12,7 +12,7 @@
 
 # **🌈 Test drive:** 
 
-- ```adb shell getprop debug.hwui.renderer ```
+- ```adb shell getprop debug.hwui.renderer```
 
 or
  
