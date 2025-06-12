@@ -1,0 +1,13 @@
+id=skiavk_turbo_booster
+name=SkiaVK Turbo Booster
+version=1.0
+versionCode=1
+author=Kraits
+description=Enables SkiaVK renderer and forces GPU acceleration for all UI animations. Improves smoothness and reduces jank.
+
+
+
+
+
+
+
