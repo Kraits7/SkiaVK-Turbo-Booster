@@ -10,8 +10,10 @@
 - 🤖 **Android 12+** (for the full effect) -
 - 🖥️ **Vulkan 1.1+** (checked automatically)
 # **🌈 Test drive:** 
-`adb shell getprop debug.hwui.renderer `
+```
+adb shell getprop debug.hwui.renderer ```
 
 or
-`getprop debug.hwui.renderer` (in termux)
+ ```
+ getprop debug.hwui.renderer``` (in termux)
 It should show `skiavk` - then everything works!
