@@ -18,7 +18,7 @@
 
 - ```adb shell getprop debug.hwui.renderer```
 
-or
+# or
  
 - ```getprop debug.hwui.renderer``` (in termux)
 It should show `skiavk` - then everything works!
